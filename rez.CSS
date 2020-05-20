@@ -1,0 +1,28 @@
+.container {background-color: orange;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+width: 300px;}
+
+.contact {background-color: black;
+        color: orange;
+        height: auto;
+        width:90px;
+        border: thick solid blue;
+        padding:5px 100px 5px 100px;}
+
+.about {background-color: black;
+        color: orange;
+        height: auto;
+        width:90px;
+        border: thick solid blue;
+        padding:5px 100px 5px 100px;}
+
+.hobbies{background-color: black;
+        color: orange;
+        height: auto;
+        width:90px;
+        border: thick solid blue;
+        padding:5px 100px 5px 100px;}
+
+.body {background-color: white;
+width: 1000px;}
