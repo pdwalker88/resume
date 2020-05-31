@@ -1,28 +1,36 @@
-.container {background-color: orange;
+.container {background-color: lightblue;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 300px 300px;
 width: 300px;}
 
 .contact {background-color: black;
-        color: orange;
+        color: lightblue;
         height: auto;
         width:90px;
         border: thick solid blue;
-        padding:5px 100px 5px 100px;}
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 16.2px;}
 
 .about {background-color: black;
-        color: orange;
+        color: lightblue;
         height: auto;
         width:90px;
         border: thick solid blue;
-        padding:5px 100px 5px 100px;}
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 18px;}
 
 .hobbies{background-color: black;
-        color: orange;
+        color: lightblue;
         height: auto;
         width:90px;
         border: thick solid blue;
-        padding:5px 100px 5px 100px;}
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 18px;}
 
-.body {background-color: white;
-width: 1000px;}
+.body {background-color: #EBFAFA;
+  display: grid;
+width: 700px;
+font-family: Lucida Sans;}
