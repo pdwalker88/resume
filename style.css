@@ -6,8 +6,7 @@ width: 300px;}
 .contact {background-color: black;
         color: lightblue;
         height: auto;
-        width:90px;
-        border: thick solid blue;
+        width:100px;
         padding:5px 100px 5px 100px;
 font-family: Gamestation Text;
 font-size: 16.2px;}
@@ -15,8 +14,7 @@ font-size: 16.2px;}
 .about {background-color: black;
         color: lightblue;
         height: auto;
-        width:90px;
-        border: thick solid blue;
+        width:100px;
         padding:5px 100px 5px 100px;
 font-family: Gamestation Text;
 font-size: 18px;}
@@ -24,8 +22,7 @@ font-size: 18px;}
 .hobbies{background-color: black;
         color: lightblue;
         height: auto;
-        width:90px;
-        border: thick solid blue;
+        width:100px;
         padding:5px 100px 5px 100px;
 font-family: Gamestation Text;
 font-size: 18px;}
