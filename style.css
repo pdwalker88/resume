@@ -1,0 +1,33 @@
+.container {background-color: lightblue;
+  display: grid;
+  grid-template-columns: 300px 300px;
+width: 300px;}
+
+.contact {background-color: black;
+        color: lightblue;
+        height: auto;
+        width:100px;
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 16.2px;}
+
+.about {background-color: black;
+        color: lightblue;
+        height: auto;
+        width:100px;
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 18px;}
+
+.hobbies{background-color: black;
+        color: lightblue;
+        height: auto;
+        width:100px;
+        padding:5px 100px 5px 100px;
+font-family: Gamestation Text;
+font-size: 18px;}
+
+.body {background-color: #EBFAFA;
+  display: grid;
+width: 700px;
+font-family: Lucida Sans;}
