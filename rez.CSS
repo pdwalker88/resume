@@ -1,13 +1,14 @@
-.Center {background-color: orange;
-    margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;}
+.center {margin: auto;
+width: 53%;
+border: 3px solid;}
 
-  .container {background-color: lightblue;
+.img {float:
+    padding-left: 80px}
+
+.container {background-color: lightblue;
   display: grid;
   grid-template-columns: 300px 300px;
-width: 300px;}
+width: 400px;}
 
 .contact {background-color: black;
         color: lightblue;
