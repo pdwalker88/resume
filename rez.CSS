@@ -1,40 +1,55 @@
-.center {margin: auto;
-width: 53%;
-border: 3px solid;}
+.center {
+    margin: auto;
+    width: 80%;
+    border: 3px solid;
+}
 
-.img {float:
-    padding-left: 80px}
+.img {
+    float:padding-left: 80px
+}
 
-.container {background-color: lightblue;
-  display: grid;
-  grid-template-columns: 300px 300px;
-width: 400px;}
+.container {
+    background-color: lightblue;
+    display: grid;
+    grid-template-columns: 300px 300px;
+    width: 400px;
+}
 
-.contact {background-color: black;
-        color: lightblue;
-        height: auto;
-        width:100px;
-        padding:5px 100px 5px 100px;
-font-family: Gamestation Text;
-font-size: 16.2px;}
+.contact {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: 100px;
+    padding: 5px 100px 5px 100px;
+    font-family: Gamestation Text;
+    font-size: 16.2px;
+}
 
-.about {background-color: black;
-        color: lightblue;
-        height: auto;
-        width:100px;
-        padding:5px 100px 5px 100px;
-font-family: Gamestation Text;
-font-size: 18px;}
+.about {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: 100px;
+    padding: 5px 100px 5px 100px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
 
-.hobbies{background-color: black;
-        color: lightblue;
-        height: auto;
-        width:100px;
-        padding:5px 100px 5px 100px;
-font-family: Gamestation Text;
-font-size: 18px;}
+.hobbies {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: 100px;
+    padding: 5px 100px 5px 100px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
 
-.body {background-color: #EBFAFA;
-  display: grid;
-width: 700px;
-font-family: Lucida Sans;}
+main {
+    background-color: #EBFAFA;
+    width:1000px;
+     /* display: grid;*/
+     margin:0 auto;
+     width:100%;
+    font-family: Lucida Sans;
+}
