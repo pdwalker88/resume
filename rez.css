@@ -45,6 +45,7 @@
     font-size: 18px;
 }
 
+<<<<<<< HEAD:rez.CSS
 main {
     background-color: #EBFAFA;
     width:1000px;
@@ -53,3 +54,9 @@ main {
      width:100%;
     font-family: Lucida Sans;
 }
+=======
+.body {background-color: #EBFAFA;
+  display: grid;
+width: 700px;
+font-family: Lucida Sans;}
+>>>>>>> 1f775ee339582f34726b037d896ddd509b9762fc:rez.css
