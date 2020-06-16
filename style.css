@@ -1,0 +1,53 @@
+.container{
+  border:solid;
+  width:60%;
+  margin: auto;
+  
+}
+
+.flex-container{
+  display:flex;
+  flex-direction:row;
+}
+
+.left{
+  background-color:lightblue;
+  width:40%;
+}
+
+.right{
+  background-color:#EBFAFA;
+  width:60%;
+  font-family: Lucida Sans;
+  padding-left: 2%;
+}
+
+.contact {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 16.2px;
+}
+
+.about {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
+
+.hobbies {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
