@@ -1,0 +1,25 @@
+body{
+  background-color:orange;
+}
+
+.container{
+  background-color:red;
+  width:60%;
+  margin: auto;
+  
+}
+
+.flex-container{
+  display:flex;
+  flex-direction:row;
+}
+
+.left{
+  background-color:blue;
+  width:40%;
+}
+
+.right{
+  background-color:green;
+  width:60%;
+}
