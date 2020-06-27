@@ -17,20 +17,13 @@
 
 .right{
   background-color:#EBFAFA;
-  width:60%;
+  width:57%;
   font-family: Lucida Sans;
   padding-left: 2%;
+  padding-right: 2%;
 }
 
-.contact {
-    background-color: black;
-    color: lightblue;
-    height: auto;
-    width: auto;
-    padding: 5px 65px 5px;
-    font-family: Gamestation Text;
-    font-size: 16.2px;
-}
+
 
 .about {
     background-color: black;
@@ -42,6 +35,17 @@
     font-size: 18px;
 }
 
+.contact {
+  
+    background-color: lightblue;
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 75px 5px;
+    font-family: Castellar;
+    font-size: 25px;
+}
+
 .hobbies {
     background-color: black;
     color: lightblue;
@@ -50,4 +54,47 @@
     padding: 5px 65px 5px;
     font-family: Gamestation Text;
     font-size: 18px;
+}
+
+.goals {
+    background-color: black;
+    color: lightblue;
+    height: auto;
+    width: auto;
+    padding: 5px 65px 5px;
+    font-family: Gamestation Text;
+    font-size: 18px;
+}
+
+@media screen and (max-width: 768px) {
+.body {
+  min-width: 300px;
+}
+  
+  .contact {
+   background-color: lightblue;
+    color: black;
+    height: auto;
+    width: auto;
+    padding: 5px 75px 5px;
+    font-family: Castellar;
+    font-size: 25px;
+    
+}
+
+.left {
+display: none;
+}
+  
+.right {
+    width: 100%;
+    padding-right: 2%;
+  }
+  
+.about {
+display: none;
+}
+  
+.hobbies {
+visibility: hidden;
 }
