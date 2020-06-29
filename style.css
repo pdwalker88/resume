@@ -17,10 +17,9 @@
 
 .right{
   background-color:#EBFAFA;
-  width:57%;
+  width: 65%;
   font-family: Lucida Sans;
   padding-left: 2%;
-  padding-right: 2%;
 }
 
 
@@ -36,12 +35,10 @@
 }
 
 .contact {
-  
-    background-color: lightblue;
     color: black;
     height: auto;
     width: auto;
-    padding: 5px 75px 5px;
+    padding: 0px 75px 5px;
     font-family: Castellar;
     font-size: 25px;
 }
@@ -72,7 +69,6 @@
 }
   
   .contact {
-   background-color: lightblue;
     color: black;
     height: auto;
     width: auto;
@@ -88,7 +84,6 @@ display: none;
   
 .right {
     width: 100%;
-    padding-right: 2%;
   }
   
 .about {
